@@ -9,7 +9,7 @@
 }
 
 /* footerは最前面に */
-footer {
+#footer {
 	z-index: 5;
 }
 
