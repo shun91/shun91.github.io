@@ -3,6 +3,11 @@
 	background: none;
 }
 
+/* skilsのラベル */
+#skills .label {
+  line-height: 2.0;
+}<`2`>
+
 /* footerは最前面に */
 footer {
 	z-index: 5;
